@@ -13,8 +13,11 @@ Each instance is represented on a single line, with carriage returns denoting th
 @RELATION iris
 
 @ATTRIBUTE sepallength  NUMERIC
+
 @ATTRIBUTE sepalwidth   NUMERIC
+
 @ATTRIBUTE petallength  NUMERIC
+
 @ATTRIBUTE petalwidth   NUMERIC
 @ATTRIBUTE class        {Iris-setosa,Iris-versicolor,Iris-virginica}
 @DATA
