@@ -1,7 +1,7 @@
-# JSS Tool:
+# Tool:
 Waikato Environment for Knowledge Analysis (WEKA) is a popular, open source toolkit implemented in Java for machine learning and data mining. We used WEKA 3.8 for our study. We used the ClassBalancer filter in WEKA for balancing our dataset. We used two machine-learning algorithms (Support Vector Machine and Logistic Regression) to classify the vulnerable and neutral methods for all systems. We applied 10-fold cross validation to evaluate our predictive model to ensure that the trained model works accurately for an unknown dataset. The default parameter setting for two ML algorithms in WEKA 3.8 was considered for the study.
 
-# JSS-Dataset
+# Dataset
 An ARFF (Attribute-Relation File Format) file is an ASCII text file that describes a list of instances sharing a set of attributes. 
 ARFF files have two distinct sections. The first section is the Header information, which is followed the Data information.
 The relation name is defined as the first line in the ARFF file. The format is: @relation <relation-name>
