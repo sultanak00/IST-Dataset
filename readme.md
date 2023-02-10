@@ -3,3 +3,6 @@
 [Github](https://www.github.com "Github home")
 _test for italic_
 **test for bold**
+|Name|Email|Address|
+|----|-----|-------|  
+|John|john@example.com|Address1|
